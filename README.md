@@ -9,7 +9,7 @@ Two subsets are said to be linearly separable if there exists a hyperplane that 
 
 <img src="separability.png" height="200" />
 
-Cover's function counting theorem gives the number of linearly separable pattern sets out of *p* sets given inputs in general position in the *n*-th dimensional space.
+Cover's function counting theorem gives the number of linearly separable pattern sets out of *p* sets given inputs in general position in the *n*-th dimensional space [(Cover, 1965)](https://ieeexplore.ieee.org/document/4038449).
 
 # License
 This project is licensed under the MIT License.
